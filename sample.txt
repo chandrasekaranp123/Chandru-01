@@ -1,0 +1,2 @@
+This is the sample file placd in GIT repository:
+
